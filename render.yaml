@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: chatbot-backend
-    env: python
-    buildCommand: ""  # No build needed for plain Python
-    startCommand: python3 app.py
-    rootDir: backend
-
-  

@@ -1,0 +1,354 @@
+# Research Papers by Topic
+
+
+## Topic 0: green & green ai
+Keywords: green, green ai, sustainability, environmental, sustainable, systems, artificial, artificial intelligence, intelligence, sustainable ai
+
+Number of papers: 38
+
+- A Green AI Model Selection Strategy for Computer-Aided Mpox Detection
+  Problem: Many researchers follow the Red AI trend of improving classifier accuracy without considering model ...
+- A review of green artificial intelligence: Towards a more sustainable future
+  Problem: The primary research problem addressed in this paper is the environmental impact of AI systems, spec...
+- A Systematic Review of Green AI
+  Problem: The carbon footprint of AI is no longer negligible, urging researchers to account for emissions. It ...
+- Artificial Intelligence and the Climate Emergency: Opportunities, Challenges, and Recommendations
+  Problem: Current trends in AI research seem to indicate that its carbon footprint could increase quickly.
+- Automated Decision-Making Based on Artificial Intelligence
+  Problem: Need for sustainable and ethical AI to meet environmental, social, and economic goals.
+- Benchmarking News Recommendation in the Era of Green AI
+  Problem: News recommender systems lack standardized benchmarks, and Green AI seeks to reduce ML energy use an...
+- Black Boxes, Not Green: Mythologizing Artificial Intelligence and Omitting the Environment
+  Problem: Public discourse on AI systematically avoids considering AI's environmental costs, despite its relia...
+- Broadening the Perspective for Sustainable AI
+  Problem: AI systems pose social, environmental, and economic challenges, including energy consumption, discri...
+- Building a Smart and Green AI
+  Problem: The paper addresses the increasing deployment of AI models in data-intensive application domains and...
+- Data-Centric Green AI An Exploratory Empirical Study
+  Problem: The paper explores the growing energy consumption of AI systems and the need for "Green AI" approach...
+- Data-Centric Green Artificial Intelligence: A Survey
+  Problem: The exponential growth of AI models has led to significant energy consumption and carbon emissions, ...
+- Green AI
+  Problem: The computational costs of state-of-the-art AI research has increased 300,000x, denoted Red AI, lead...
+- Green AI - A Multidisciplinary Approach to Sustainability
+  Problem: AI's rapid growth raises concerns about its environmental impact, with escalating energy demands ris...
+- Green AI in Action: Strategic Model Selection for Ensembles in Production
+  Problem: AI integration in software systems enhances capabilities but increases energy demands, raising opera...
+- Green AI in the Finance Industry: Exploring the Impact of Feature Engineering on the Accuracy and Computational Time of ML Models
+  Problem: Feature engineering in financial ML increases computational cost and emissions, requiring balance wi...
+- Green AI Quotient: Assessing Greenness of AI-based Software
+  Problem: AI’s growing compute needs increase emissions; lack of standard sustainability metrics hinders green...
+- Green AI: Enhancing Sustainability and Energy Efficiency in AI-Integrated Enterprise Systems
+  Problem: The integration of Artificial Intelligence (AI) in enterprise systems drives automation and decision...
+- Green Algorithms: Quantifying the Carbon Footprint of Computation
+  Problem: Environmental impact of computation is underappreciated
+- Green and Sustainable AI Research: An Integrated Thematic and Topic Modeling Analysis
+  Problem: Lack of holistic insight into AI for sustainability and zero-carbon goals
+- Green Artificial Intelligence Initiatives: Potentials and Challenges
+  Problem: AI model training/operation leads to high emissions; few sustainable solutions adopted
+- Green IN AI from a Software Perspective: State-of-the-Art and Green Decalogue
+  Problem: ML algorithms are energy-intensive; software strategies for green AI are underused
+- Human-Centered AI: A Framework for Green and Sustainable AI
+  Problem: AI development neglects ethics, fairness, sustainability
+- Improving Automated Machine-Learning Systems through Green AI
+  Problem: AutoML systems use excessive energy, hurting sustainability.
+- Is the future of AI sustainable? A case study of the European Union
+  Problem: Lack of focus on sustainable AI design compared to sustainable use of AI in environmental efforts.
+- On the environmental sustainability of Ai art(s)
+  Problem: A wide variety of creative practitioners are currently exploring the use of Ai in their work process...
+- Reduce, Reuse, Recycle: Green Information Retrieval Research
+  Problem: IR advances use energy-intensive hardware; need to consider environmental impacts.
+- Strategic Environmental Assessment (SEA) Process towards the Sustainable Design and Construction of Computer, Communication, Network Engineering, Machine Learning and Artificial Intelligence Systems
+  Problem: Traditional project design prioritizes economics, neglecting environmental/social sustainability.
+- Sustainability challenges of Artificial Intelligence and Policy Implications
+  Problem: "Which opportunities and risks for the environment, economy and society are associated with Artifici...
+- Sustainability in Artificial Intelligence - Towards a Green AI Reference Model
+  Problem: "Existing Green Software reference models are insufficient for meeting the unique requirements of Gr...
+- Sustainability of AI: The Case of Provision of Information to Consumers
+  Problem: AI's environmental impact is significant, especially from energy-intensive model training, yet susta...
+- Sustainable AI: AI for sustainability and the sustainability of AI
+  Problem: "While there is a growing effort towards AI for Sustainability (e.g. towards the sustainable develop...
+- The AI Carbon Footprint and Responsibilities of AI Scientists
+  Problem: "This article focuses on the little explored ethical issue of distributing fairly among involved act...
+- The Green AI Ontology: An Ontology for Modeling the Energy Consumption of AI Models
+  Problem: Existing ontologies fail to model the energy consumption and environmental impact of AI models, limi...
+- The Heuristics Gap in AI Ethics: Impact on Green AI Policies and Beyond
+  Problem: Heuristic biases in decision-making create a "heuristics gap" in AI ethics, hindering ethical issue ...
+- Towards Green AI: Current Status and Future Research
+  Problem: "We aim to broaden the discourse on Green AI by investigating the current status of approaches to bo...
+- Towards sustainable AI: a comprehensive framework for Green AI
+  Problem: "The rapid advancement of artificial intelligence (AI) has brought significant benefits across vario...
+- Understanding the Innovations Required for a Green & Secure Artificial Intelligence Paradigm
+  Problem: "The AI life-cycle is a major source of greenhouse gas (GHG) emission leading to devastating environ...
+- Unraveling the Hidden Environmental Impacts of AI Solutions for Environment Life Cycle Assessment of AI Solutions
+  Problem: The complete net environmental impacts of AI solutions, particularly AI for Green, have never been d...
+
+--------------------------------------------------
+
+## Topic 1: neural & networks
+Keywords: neural, networks, deep, neural networks, deep neural, deep neural networks, network, devices, loss, accuracy loss
+
+Number of papers: 33
+
+- A Method to Estimate the Energy Consumption of Deep Neural Networks
+  Problem: Estimating energy consumption from the DNN model is much more difficult than other metrics such as s...
+- A Preliminary Analysis on Software Frameworks for the Development of Spiking Neural Networks
+  Problem: Today, the energy resources used by machine learning methods, especially those based on deep neural ...
+- AMC: AutoML for Model Compression and Acceleration on Mobile Devices
+  Problem: Deploying deep neural networks on mobile devices is challenging due to limited computational resourc...
+- AN ANALYSIS OF DEEP NEURAL NETWORK MODELS FOR PRACTICAL APPLICATIONS
+  Problem: While accuracy figures have steadily increased, the resource utilisation of winning models has not b...
+- Constructing Fast Network through Deconstruction of Convolution
+  Problem: Convolutional Neural Networks (CNNs) have high resource costs, which can be a limitation in resource...
+- DeepQGHO: Quantized Greedy Hyperparameter Optimization in Deep Neural Networks for on-the-Fly Learning
+  Problem: On-the-fly learning needs fast DNN training; current HPO methods are too slow and resource-heavy for...
+- DeLight: Adding Energy Dimension to Deep Neural Networks
+  Problem: DNNs are computationally intensive, limiting energy efficiency on embedded systems
+- Designing Adaptive Neural Networks for Energy-Constrained Image Classification
+  Problem: High energy consumption of CNNs limits their use on resource-constrained mobile devices for image cl...
+- Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning
+  Problem: High energy consumption of CNNs restricts their deployment on battery-powered mobile devices due to ...
+- Efficient Processing of Deep Neural Networks: A Tutorial and Survey
+  Problem: Deep neural networks (DNNs) deliver high accuracy in AI applications but incur significant computati...
+- Energy-Aware Neural Architecture Optimization with Fast Splitting Steepest Descent
+  Problem: Designing energy-efficient deep neural networks (DNNs) for resource-constrained mobile and edge devi...
+- ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA
+  Problem: Large LSTM models use high power, increasing data center costs
+- Evaluating and Analyzing the Energy Efficiency of CNN Inference on High-Performance GPU
+  Problem: CNN inference on high-performance GPUs consumes significant energy, yet the energy efficiency across...
+- Evaluating Energy Efficiency of CNN Inference on GPUs
+  Problem: CNN inference is energy-intensive; efficiency across settings not well understood
+- Exploring Energy and Accuracy Tradeoff in Structure Simplification of Trained Deep Neural Networks
+  Problem: High energy and storage costs of trained deep neural networks (DNNs) hinder their deployment on reso...
+- LAYER-WISE DEEP NEURAL NETWORK PRUNING VIA ITERATIVELY REWEIGHTED OPTIMIZATION
+  Problem: "The huge number of parameters of deep neural network makes it difficult to deploy on embedded devic...
+- Learning Efficient Convolutional Networks through Network Slimming
+  Problem: "The deployment of deep convolutional neural networks (CNNs) in many real world applications is larg...
+- Learning Sparse Deep Neural Networks Using Efficient Structured Projections on Convex Constraints for Green AI
+  Problem: "High performance of DNNs is often obtained with networks containing millions of parameters, requiri...
+- Learning Structured Sparsity in Deep Neural Networks
+  Problem: "High demand for computation resources severely hinders deployment of large-scale Deep Neural Networ...
+- Learning the Number of Neurons in Deep Networks
+  Problem: "The number of layers and of neurons in each layer of a deep network are typically set manually. Whi...
+- Less Is More: Towards Compact CNNs
+  Problem: "We aim at optimizing the number of neurons in a network, thus the number of parameters."
+- LET'S KEEP IT SIMPLE, USING SIMPLE ARCHITECTURES TO OUTPERFORM DEEPER AND MORE COMPLEX ARCHITECTURES
+  Problem: "Major winning Convolutional Neural Networks (CNNs), such as AlexNet, VGGNet, ResNet, GoogleNet, inc...
+- Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning
+  Problem: "High computational complexity and energy costs of DNNs impede their deployment on edge devices with...
+- Optimizing the Energy Consumption of Spiking Neural Networks for Neuromorphic Applications
+  Problem: - Challenge of training SNNs for machine learning tasks.- Naive weight transfer can lead to silent S...
+- PredJoule: A Timing-Predictable Energy Optimization Framework for Deep Neural Networks
+  Problem: Deep Neural Networks (DNNs) in autonomous driving require both timing predictability and energy effi...
+- Progressive Neural Architecture Search
+  Problem: Traditional NAS (RL/EA) is computationally expensive for CNN structure discovery.
+- Pruning Filters for Efficient ConvNets
+  Problem: CNNs' high computation/storage costs limit use on resource-constrained devices.
+- Recent Efficiency Gains in Deep Learning: Performance, Power, and Sustainability
+  Problem: DL is computationally intensive, raising energy and sustainability concerns.
+- ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+  Problem: Achieving high accuracy under tight computational budgets for mobile platforms.
+- The Computational Limits of Deep Learning
+  Problem: "Progress across a wide variety of applications is strongly reliant on increases in computing power....
+- Toward Compact ConvNets via Structure-Sparsity Regularized Filter Pruning
+  Problem: Large-scale CNNs have high computational and memory costs, making them impractical for resource-limi...
+- Transforming Deep Learning Models for Resource-Efficient Activity Recognition on Mobile Devices
+  Problem: Challenging to run deep learning algorithms on mobile devices due to limited battery, memory, and co...
+- Understanding the Impact of Precision Quantization on the Accuracy and Energy of Neural Networks
+  Problem: There exists no comprehensive study of different bit precisions and arithmetic in both inputs and ne...
+
+--------------------------------------------------
+
+## Topic 2: machine & machine learning
+Keywords: machine, machine learning, ml, efficiency, decision, energy efficiency, data, green, study, green machine learning
+
+Number of papers: 24
+
+- Analysing the energy impact of different optimisations for machine learning models
+  Problem: Increased use of AI in daily software brings environmental concerns due to high energy consumption.
+- Data Set Reduction to Improve Computing Efficiency and Energy Consumption in Healthcare
+  Problem: Large healthcare datasets increase computational time, memory usage, and energy consumption in ML
+- Do We Need Exotic Models? Engineering Metrics to Enable Green Machine Learning from Tackling Accuracy-Energy Trade-offs
+  Problem: "ML users are to be cognizant of the hidden costs of energy consumption and subsequent carbon emissi...
+- EcoMLS: Enhancing Sustainability in Machine Learning
+  Problem: The sustainability of Machine Learning-Enabled Systems (MLS), particularly energy efficiency in mode...
+- Economic Granularity Interval in Decision Tree Algorithm Standardization from an Open Innovation Perspective: Towards a Platform for Sustainable Matching
+  Problem: The purpose of this study was to find an economic range of the granularity in a decision tree, addre...
+- Efficient Machine Learning for Big Data: A Review
+  Problem: Current intelligent machine-learning-based systems are not inherently efficient or scalable enough t...
+- Energy Efficiency of Inference Algorithms for Clinical Laboratory Data Sets: Green Artificial Intelligence Study
+  Problem: Deploying energy-efficient machine learning (ML) models for medical inference on resource-constraine...
+- Energy-aware Very Fast Decision Tree
+  Problem: Streaming algorithms like the Very Fast Decision Tree (VFDT) are designed for high velocity and low ...
+- EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models
+  Problem: Large machine learning (ML) models consume significant energy, but tracking and comparing their ener...
+- Environmentally-Friendly Metrics for Evaluating DL Models
+  Problem: Traditional DL metrics ignore energy/cost; hinder sustainable innovation
+- Estimation of Energy Consumption in Machine Learning
+  Problem: ML research focuses on accuracy, ignoring energy use; lacks standardized estimation approaches
+- Green Machine Learning: A Methodology for Fair Evaluation of Resource Consumption
+  Problem: Most ML evaluations ignore resource usage (energy, time, memory)
+- Green Machine Learning: Analysing the Energy Efficiency of ML Models
+  Problem: ML models consume energy; balancing accuracy vs. efficiency is key
+- Green-IN Machine Learning at a Glance
+  Problem: ML model training emits large CO₂ volumes
+- How to Measure Energy Consumption in ML Algorithms
+  Problem: Energy estimation in ML lacks standardization and is complex
+- Identification of Energy Hotspots: A Case Study of the Very Fast Decision Tree
+  Problem: VFDT’s energy use is high but not well understood at function-level granularity.
+- Identifying Architectural Design Decisions for Achieving Green ML Serving
+  Problem: ML serving is crucial but lacks studies on energy efficiency and architectural decisions.
+- Low-Energy Architectures for Support Vector Machine Computation
+  Problem: "SVMs achieve very good classification accuracy at the cost of high computational complexity."
+- nvestigating hardware and software aspects in the energy consumption of machine learning: A green AI-centric analysis
+  Problem: "Much has been discussed about artificial intelligence’s negative environmental impacts due to its p...
+- Performance and Energy efficiency Analysis of Machine Learning algorithms Towards Green AI: a case study of decision tree algorithms
+  Problem: "Little is known about its computational requirements and energy consumption, which has become an im...
+- Towards a Sustainable Artificial Intelligence: A Case Study of Energy Efficiency in Decision Tree Algorithms
+  Problem: The high energy consumption of ML algorithms, particularly decision trees (DT), contributes to signi...
+- Towards Green Automated Machine Learning: Status Quo and Future Directions
+  Problem: "AutoML is being criticized for its high resource consumption as many approaches rely on the (costly...
+- Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning
+  Problem: ML research rarely reports energy or carbon emission metrics.
+- What can Android mobile app developers do about the energy consumption of machine learning?
+  Problem: "Currently, there are few guidelines for developers who want to employ machine learning on mobile de...
+
+--------------------------------------------------
+
+## Topic 3: green ai & green
+Keywords: green ai, green, networks, neural networks, neural, compression, flops, transformer, control, tuning
+
+Number of papers: 12
+
+- A Survey on Green AI Variational Autoencoders
+  Problem: "Training a complex generative model typically requires a lot of time and computational resources." ...
+- An Efficient Green AI Approach to Time Series Forecasting Based on Deep Learning
+  Problem: Not explicitly mentioned in the paper.
+- Batching for Green AI - An Exploratory Study on Inference
+  Problem: This study examines the effect of input batching on the energy consumption and response times of ful...
+- Distilling Neural Networks for Greener and Faster Dependency Parsing
+  Problem: High carbon footprint and computational inefficiency of large neural networks for dependency parsing...
+- Exploring Green AI for Audio Deepfake Detection
+  Problem: State-of-the-art audio deepfake detectors using deep neural networks have high carbon footprints due...
+- GREE-COCO: Green Artificial Intelligence Powered Cost Pricing Models for Congestion Control
+  Problem: Design a system called Green Artificial Intelligence Powered Cost Pricing Models for Congestion Cont...
+- Position: Tensor Networks are a Valuable Asset for Green AI
+  Problem: AI research on a large scale has adverse side effects on economic, social, and environmental sustain...
+- Some Ethical Remarks on Deep Learning-Based Movements Monitoring for Preterm Infants: Green AI or Red AI?
+  Problem: High computational costs of DL models risk privilege and unsustainability in clinical practice.
+- Toward Green AI: A Methodological Survey of the Scientific Literature
+  Problem: The high energy consumption of Red AI, characterized by resource-intensive deep learning models, res...
+- Towards Green AI by reducing training effort of Recurrent Neural Networks using Hyper-Parameter Optimization with dynamic stopping criteria
+  Problem: "With the carbon footprint of ever-growing adoption of neural networks in mind, an approach to reduc...
+- TOWARDS Green AI IN FINE-TUNING LARGE LANGUAGE MODELS VIA ADAPTIVE BACKPROPAGATION
+  Problem: "Fine-tuning has been performed intensively worldwide, incurring a tremendous amount of computing co...
+- Towards Green AI: Assessing the Robustness of Conformer and Transformer Models under Compression
+  Problem: "Conformer models are more efficient than transformers, but both suffer from large sizes, and expens...
+
+--------------------------------------------------
+
+## Topic 4: emissions & impact
+Keywords: emissions, impact, environmental, tools, carbon intensity, intensity, operational, co2, estimating, carbon footprint
+
+Number of papers: 9
+
+- eco2AI: Carbon Emissions Tracking of Machine Learning Models as the First Step Towards Sustainable AI
+  Problem: Growing energy consumption and carbon emissions from large AI models hinder environmental sustainabi...
+- Estimating Carbon Estimating Carbon
+Emissions of Artificial
+Intelligence
+  Problem: Estimating emissions from DL training is difficult and imprecise
+- Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools
+  Problem: Due to the significant environmental impact of deep learning, cost-benefit analysis including carbon...
+- Measuring the Carbon Intensity of AI in Cloud Instances
+  Problem: "How should we measure and report operational carbon costs of AI workloads? Can we shift computation...
+- On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?
+  Problem: Large language models are resource-heavy and pose ethical/environmental risks.
+- Reconsidering CO2 Emissions from Computer Vision
+  Problem: CV model development/evaluation emits significant CO2, often overlooked by the community.
+- Sustainable AI: Environmental Implications, Challenges and Opportunities
+  Problem: "This paper explores the environmental impact of the super-linear growth trends for AI from a holist...
+- The carbon impact of artificial intelligence
+  Problem: "It has become an urgent matter to consider the role of AI technology in the climate crisis."
+- The Future of Human-Artificial Intelligence Nexus and its Environmental Costs
+  Problem: The pursuit of accuracy in ML/AI leads to excessive computational resource use and environmental har...
+
+--------------------------------------------------
+
+## Topic 5: carbon footprint & footprint
+Keywords: carbon footprint, footprint, carbon footprint training, footprint training, impact, emissions, end, machine, trade, training deep
+
+Number of papers: 7
+
+- Carbon Emissions and Large Neural Network Training
+  Problem: The computation demand for machine learning (ML) has grown rapidly, leading to increased energy dema...
+- Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models
+  Problem: Deep learning training consumes significant energy, contributing to carbon emissions and climate cha...
+- Exploring the Accuracy - Energy Trade-off in Machine Learning
+  Problem: Machine learning accounts for considerable global electricity demand, as training a large deep-learn...
+- How to estimate carbon footprint when training deep learning models? A guide and review
+  Problem: "It is now widely acknowledge that the development of these models has an environmental cost that ha...
+- Hyperparameter Power Impact in Transformer Language Model Training
+  Problem: High energy use and CO₂ emissions from large model training with little focus on energy-efficient hy...
+- The Carbon Footprint of Machine Learning Training Will Plateau, Then Shrink
+  Problem: "Responsible AI is a broad topic; we focus on a single issue that has received much attention from t...
+- The Energy and Carbon Footprint of Training End-to-End Speech Recognizers
+  Problem: "This work investigates for the first time the carbon cost of end-to-end automatic speech recognitio...
+
+--------------------------------------------------
+
+## Topic 6: search & multi
+Keywords: search, multi, approach, predictive performance, predictive, hyperparameter, incremental, reduced, hyper, random
+
+Number of papers: 6
+
+- A Multi-objective Hyperparameter Optimization for Machine Learning Using Genetic Algorithms: A Green AI Centric Approach
+  Problem: Machine learning models, particularly deep learning, consume significant energy due to large dataset...
+- EFFICIENT MULTI-OBJECTIVE NEURAL ARCHITECTURE SEARCH VIA LAMARCKIAN EVOLUTION
+  Problem: "Recent approaches have achieved state-of-the-art predictive performance for, e.g., image recognitio...
+- Green AI-Driven Concept for Cost-Effective and Energy-Efficient Deep Learning: Eimeria Parasite Detection
+  Problem: Large-scale pretrained convolutional neural networks (CNNs) consume high energy and computational re...
+- GreenNAS: A Green Approach to Hyperparameter Tuning in Deep Learning
+  Problem: NAS and HPO require huge computation and emissions
+- Incremental Trust-Aware Matrix Factorization for Recommender Systems
+  Problem: MF in RS consumes high energy due to frequent retraining; cold-start adds complexity.
+- Random Search for Hyper-Parameter Optimization
+  Problem: Grid/manual search for hyper-parameters is inefficient, especially in high dimensions.
+
+--------------------------------------------------
+
+## Topic 7: federated & federated learning
+Keywords: federated, federated learning, edge ai, green edge ai, green edge, edge, sparse, precision, hybrid, tradeoff
+
+Number of papers: 5
+
+- A Complete Survey on Contemporary Methods, Emerging Paradigms and Hybrid Approaches for Few-Shot Learning
+  Problem: Deep learning's need for vast data and extensive training is impractical where data is scarce.
+- FedCarbon: Carbon-Efficient Federated Learning with Double Flexible Controls for Green Edge AI
+  Problem: "Existing research has largely overlooked the sustainability challenges of FL in future edge computi...
+- On the Tradeoff between Energy, Precision, and Accuracy in Federated Quantized Neural Networks
+  Problem: "Deploying federated learning (FL) over wireless networks with resource-constrained devices requires...
+- Sparse Optimization for Green Edge AI Inference
+  Problem: Edge AI inference needs energy efficiency due to high computation/transmission power on mobile devic...
+- Structured Bayesian Federated Learning for Green AI: A Decentralized Model Compression Using Turbo-VBI Based Approach
+  Problem: Large DNNs in FL cause high communication/storage/computation burden for resource-constrained device...
+
+--------------------------------------------------
+
+## Topic 8: nlp & nlp models
+Keywords: nlp, nlp models, hardware, increasing, efficiency, vs, longer, long, input, responsible
+
+Number of papers: 5
+
+- Characterizing the Efficiency vs. Accuracy Trade-off for Long-Context NLP Models
+  Problem: While there's a rise in NLP benchmarks for models handling longer input sequences, they often don't ...
+- Energy and Policy Considerations for Deep Learning in NLP
+  Problem: State-of-the-art NLP models require substantial computational resources, leading to high financial a...
+- HULK: An Energy Efficiency Benchmark Platform for Responsible NLP
+  Problem: Pretrained NLP models have high carbon/energy cost; little efficiency data
+- IrEne: Interpretable Energy Prediction for Transformers
+  Problem: Inaccurate energy measurements in NLP models due to ignoring model-runtime energy interactions.
+- Towards Accurate and Reliable Energy Measurement of NLP Models
+  Problem: Existing software-based energy measurements for large-scale NLP models are inaccurate due to hardwar...
+
+--------------------------------------------------

@@ -1,0 +1,276 @@
+/* Main App layout */
+.App {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f7fb;
+}
+
+.App-header {
+  background-color: #4a69bd;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* Sidebar with topics */
+.sidebar {
+  width: 280px;
+  background-color: #fff;
+  border-right: 1px solid #e1e4e8;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.topic-selector h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #24292e;
+  font-size: 1.2rem;
+}
+
+.topics-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.topic-item {
+  background-color: #f0f5ff;
+  border-radius: 8px;
+  padding: 12px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+  border: 1px solid #e1e4e8;
+}
+
+.topic-item:hover {
+  background-color: #e6f0ff;
+  transform: translateY(-2px);
+}
+
+.topic-name {
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #1a56db;
+}
+
+.topic-count {
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+/* Chatbot container */
+.chatbot-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.chat-messages {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Messages */
+.message {
+  display: flex;
+  max-width: 85%;
+  margin-bottom: 8px;
+}
+
+.bot-message {
+  align-self: flex-start;
+}
+
+.user-message {
+  align-self: flex-end;
+  flex-direction: row-reverse;
+}
+
+.message-avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  margin: 0 8px;
+}
+
+.bot-message .message-avatar {
+  background-color: #6c5ce7;
+  color: white;
+}
+
+.user-message .message-avatar {
+  background-color: #0984e3;
+  color: white;
+}
+
+.message-content {
+  background-color: white;
+  padding: 12px 16px;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  max-width: 95%;
+}
+
+.user-message .message-content {
+  background-color: #0984e3;
+  color: white;
+}
+
+.message-text {
+  line-height: 1.5;
+  white-space: pre-wrap;
+}
+
+/* Paper information */
+.relevant-papers {
+  margin-top: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  padding: 12px;
+  border-left: 3px solid #6c5ce7;
+}
+
+.relevant-papers h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  color: #4a5568;
+  font-size: 0.9rem;
+}
+
+.relevant-papers ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.relevant-papers li {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+.relevant-papers p {
+  margin: 4px 0;
+  color: #4a5568;
+  font-size: 0.85rem;
+}
+
+/* Chat input */
+.chat-input {
+  display: flex;
+  padding: 16px;
+  background-color: white;
+  border-top: 1px solid #e1e4e8;
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 12px 16px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  font-size: 14px;
+  outline: none;
+}
+
+.chat-input input:focus {
+  border-color: #6c5ce7;
+  box-shadow: 0 0 0 2px rgba(108, 92, 231, 0.2);
+}
+
+.chat-input button {
+  background-color: #6c5ce7;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 0 20px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.2s;
+}
+
+.chat-input button:hover {
+  background-color: #5b4cc4;
+}
+
+.chat-input button:disabled {
+  background-color: #a8a8a8;
+  cursor: not-allowed;
+}
+
+/* Typing indicator */
+.typing-indicator {
+  display: flex;
+  align-items: center;
+}
+
+.typing-indicator span {
+  height: 8px;
+  width: 8px;
+  border-radius: 50%;
+  background-color: #6c5ce7;
+  margin: 0 2px;
+  display: inline-block;
+  animation: bounce 1.3s linear infinite;
+}
+
+.typing-indicator span:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.typing-indicator span:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@keyframes bounce {
+  0%, 60%, 100% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: auto;
+    max-height: 180px;
+    border-right: none;
+    border-bottom: 1px solid #e1e4e8;
+  }
+  
+  .topic-item {
+    margin-bottom: 8px;
+  }
+  
+  .message {
+    max-width: 95%;
+  }
+}

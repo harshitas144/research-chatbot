@@ -6,8 +6,4 @@ services:
     startCommand: python3 app.py
     rootDir: backend
 
-  - type: static
-    name: chatbot-frontend
-    buildCommand: npm install && npm run build
-    staticPublishPath: build
-    rootDir: research-chatbot
+  
